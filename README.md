@@ -20,4 +20,5 @@ flying.py                           | Check whether the character is flying.  In
 tower.py                            | Build a simple tower.  Introduce `while` loop and the `SetBlock` method.
 tower2.py                           | Build a simple tower just like `tower.py`.  Introduce `for` loop as alternative to `while`.
 pyramid.py                          | Build a pyramid.  Demonstrate a more complicated `while` loop and the `SetBlocks` method.
-
+blink.py                            | Create a blinking block.  Demonstrates time delay for animation, list length, modulus operator.
+pileup.py                           | Create a rain of blocks around the user wherever they go.  Similar to `blink.py`.  Demonstrates random numbers.
